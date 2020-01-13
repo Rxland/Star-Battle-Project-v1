@@ -11,3 +11,6 @@ pip install pyglet
 and run from main.py file
 
 ![Image alt](https://github.com/Rxland/Star-Battle-Project-v1/raw/master/Capture.PNG)
+![Image alt](https://github.com/Rxland/Star-Battle-Project-v1/raw/master/Capdffsdture.PNG)
+![Image alt](https://github.com/Rxland/Star-Battle-Project-v1/raw/master/Captfdfsdfure.PNG)
+![Image alt](https://github.com/Rxland/Star-Battle-Project-v1/raw/master/Capsddsddddture.PNG)
